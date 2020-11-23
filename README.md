@@ -10,7 +10,7 @@ This program solves the 0/1 Knapsack problem using 4 different algorithms: Greed
 
 ## Use
 
-There are several input files in the test folder of the repository which describe items to be placed into the backpack, defined by their weight and profit. Choose any input file, compile the program with javac, and execute the program as follows:
+There are several input files in the /test folder of the repository which describe items to be placed into the backpack, defined by their weight and profit. Choose any input file, compile the program with javac, and execute the program as follows:
 
 ```
 java knapsack input.txt output.txt 3
